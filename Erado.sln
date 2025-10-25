@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erado.UI.Desktop", "src\Erado.UI.Desktop\Erado.UI.Desktop.csproj", "{93D95546-38B6-44B1-8854-0C9D09420C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erado.UI", "src\Erado.UI\Erado.UI.csproj", "{182FA964-3669-421E-AC4F-E33F42AC2DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|x64.Build.0 = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Debug|x86.Build.0 = Debug|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|x64.ActiveCfg = Release|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|x64.Build.0 = Release|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|x86.ActiveCfg = Release|Any CPU
+		{93D95546-38B6-44B1-8854-0C9D09420C18}.Release|x86.Build.0 = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|x64.Build.0 = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Debug|x86.Build.0 = Debug|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|x64.ActiveCfg = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|x64.Build.0 = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|x86.ActiveCfg = Release|Any CPU
+		{182FA964-3669-421E-AC4F-E33F42AC2DB9}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
