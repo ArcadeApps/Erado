@@ -2,9 +2,9 @@ using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
 using Erado.UI.ViewModels;
-using Erado.UI.Desktop.Views;
+using Erado.UI.Views;
 
-namespace Erado.UI.Desktop;
+namespace Erado.UI;
 
 public partial class App : Application
 {

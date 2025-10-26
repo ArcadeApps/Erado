@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace Erado.UI.Desktop.Views;
+namespace Erado.UI.Views;
 
 public partial class MainWindow : Window
 {
